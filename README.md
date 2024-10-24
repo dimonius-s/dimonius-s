@@ -28,9 +28,6 @@ I am currently undergoing training at SkillFactory, and I am studying both funda
 ### [Учебный проект 2](ссылка на репозиторий)
 Описание проекта, используемые технологии и ваши достижения в процессе работы над ним.
 -->
-## Education
-- Currently enrolled in the "DevOps Engineer" course at SkillFactory
-
 <!--
 **dimonius-s/dimonius-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
