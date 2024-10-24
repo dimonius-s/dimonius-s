@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-shchepelin.dm-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shchepelin.dm@gmail.com)](mailto:shchepelin.dm@gmail.com)
 
 ## About Me
-I am an aspiring DevOps engineer, passionate about learning process automation and cloud technologies. I am currently undergoing training at SkillFactory, and I am studying both fundamental and advanced DevOps skills.
+I am currently undergoing training at SkillFactory, and I am studying both fundamental and advanced DevOps skills.
 
 ## My Skills
 - **Operating Systems:** 🐧 Linux
