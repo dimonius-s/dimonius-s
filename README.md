@@ -11,6 +11,10 @@ I am an aspiring DevOps engineer, passionate about learning process automation a
 - **Configuration Management:** 📦 Ansible
 - **Infrastructure Management:** 🌐 Terraform
 - **Container Orchestration:** ☸️ Kubernetes
+  - **CI/CD Tools:**
+  - 🐙 GitHub Actions
+  - 🦊 GitLab CI
+  - 🔧 Jenkins
 - **Databases:** 🗄️ SQL
 - **Programming Languages:**
   - 🖥️ Bash
