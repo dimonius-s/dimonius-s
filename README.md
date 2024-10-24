@@ -6,14 +6,14 @@
 I am an aspiring DevOps engineer, passionate about learning process automation and cloud technologies. I am currently undergoing training at SkillFactory, where I am studying both fundamental and advanced DevOps skills.
 
 ## My Skills
-- **Operating Systems:** ![Linux](https://img.icons8.com/color/48/000000/linux.png)
-- **Containerization:** ![Docker](https://img.icons8.com/color/48/000000/docker.png)
-- **Configuration Management:** ![Ansible](https://img.icons8.com/color/48/000000/ansible.png)
-- **Infrastructure Management:** ![Terraform](https://img.icons8.com/color/48/000000/terraform.png)
-- **Container Orchestration:** ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
+- **Operating Systems:** 🐧 Linux
+- **Containerization:** 🐋 Docker
+- **Configuration Management:** 📦 Ansible
+- **Infrastructure Management:** 🌐 Terraform
+- **Container Orchestration:** ☸️ Kubernetes
 - **Programming Languages:**
-  - ![Bash](https://img.icons8.com/color/48/000000/console.png)
-  - ![Python](https://img.icons8.com/color/48/000000/python.png)
+  - 🖥️ Bash
+  - 🐍 Python
 
 <!--
 ## Educational Projects
