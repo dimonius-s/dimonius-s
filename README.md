@@ -23,10 +23,6 @@
 - Прохожу курс "DevOps Engineer" в SkillFactory
 - Изученные модули: основы Linux, введение в Docker, основы сетей
 
-## Контакты
-- [Telegram](https://t.me/dimmonis)
-- Email: shchepelin.dm@gmail.com
-
 ## Образование
 - Бакалавр в области [Название специальности], [Название университета], [Год окончания]
 
