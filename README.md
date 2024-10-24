@@ -11,7 +11,7 @@ I am currently undergoing training at SkillFactory, and I am studying both funda
 - **Configuration Management:** 📦 Ansible
 - **Infrastructure Management:** 🌐 Terraform
 - **Container Orchestration:** ☸️ Kubernetes
-  - **CI/CD Tools:**
+- **CI/CD Tools:**
   - 🐙 GitHub Actions
   - 🦊 GitLab CI
   - 🔧 Jenkins
