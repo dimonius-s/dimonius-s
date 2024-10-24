@@ -1,32 +1,31 @@
-## Привет, я dimonius 👋
+## Hi, I'm dimonius 👋
 [![Telegram Badge](https://img.shields.io/badge/-@dimmonis-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/dimmonis)](https://t.me/dimmonis)
 [![Gmail Badge](https://img.shields.io/badge/-shchepelin.dm-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shchepelin.dm@gmail.com)](mailto:shchepelin.dm@gmail.com)
 
-## О себе
-Я начинающий DevOps инженер, увлеченный изучением автоматизации процессов и облачных технологий. Прохожу обучение в SkillFactory, где изучаю фундаментальные и продвинутые навыки в области DevOps.
+## About Me
+I am an aspiring DevOps engineer, passionate about learning process automation and cloud technologies. I am currently undergoing training at SkillFactory, where I am studying both fundamental and advanced DevOps skills.
 
-## Мои навыки
-- **Инструменты CI/CD:** Jenkins, GitHub Actions
-- **Контейнеризация:** Docker
-- **Управление конфигурацией:** Ansible
-- **Облачные технологии:** AWS, Yandex.Cloud
-- **Языки программирования:** Python, Bash
+## My Skills
+- **Operating Systems:** ![Linux](https://img.icons8.com/color/48/000000/linux.png)
+- **Containerization:** ![Docker](https://img.icons8.com/color/48/000000/docker.png)
+- **Configuration Management:** ![Ansible](https://img.icons8.com/color/48/000000/ansible.png)
+- **Infrastructure Management:** ![Terraform](https://img.icons8.com/color/48/000000/terraform.png)
+- **Container Orchestration:** ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
+- **Programming Languages:**
+  - ![Bash](https://img.icons8.com/color/48/000000/console.png)
+  - ![Python](https://img.icons8.com/color/48/000000/python.png)
 
-## Учебные проекты
+<!--
+## Educational Projects
 ### [Учебный проект 1](ссылка на репозиторий)
 Описание проекта, используемые технологии и ваши достижения в процессе работы над ним.
 
 ### [Учебный проект 2](ссылка на репозиторий)
 Описание проекта, используемые технологии и ваши достижения в процессе работы над ним.
-
-## Обучение
-- Прохожу курс "DevOps Engineer" в SkillFactory
-- Изученные модули: основы Linux, введение в Docker, основы сетей
-
-## Образование
-- Бакалавр в области [Название специальности], [Название университета], [Год окончания]
-
-
+-->
+## Education
+- Currently enrolled in the "DevOps Engineer" course at SkillFactory
+Linux, Docker, Andible, Terraform, k8s, bash, python
 <!--
 **dimonius-s/dimonius-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
