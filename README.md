@@ -1,5 +1,5 @@
 ## Привет, я dimonius 👋
-
+[![Telegram Badge](https://img.shields.io/badge/-@dimmonis-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/dimmonis)](https://t.me/dimmonis)
 [![Gmail Badge](https://img.shields.io/badge/-shchepelin.dm-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shchepelin.dm@gmail.com)](mailto:shchepelin.dm@gmail.com)
 
 ## О себе
