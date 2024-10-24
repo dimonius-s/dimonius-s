@@ -25,7 +25,7 @@ I am an aspiring DevOps engineer, passionate about learning process automation a
 -->
 ## Education
 - Currently enrolled in the "DevOps Engineer" course at SkillFactory
-Linux, Docker, Andible, Terraform, k8s, bash, python
+
 <!--
 **dimonius-s/dimonius-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
